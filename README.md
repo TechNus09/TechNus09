@@ -2,7 +2,7 @@
 - I’m interested un any type of techs
 - I’m currently learning python/java(mobile apps)
 - I’m looking to collaborate on some simple android apps.
-- How to reach me : email: pegatech9@gmail.com - discord id: TechNus09#0508 - facebook: facebook.com/aaroon.knight
+- How to reach me : email: pegatech9@gmail.com - discord id: technus09 - facebook: facebook.com/aaroon.knight
 
 <!---
 TechNus09/TechNus09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
